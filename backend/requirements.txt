@@ -1,0 +1,10 @@
+fastapi[standard]
+supabase
+python-jose
+litellm
+browser-use
+pillow
+playwright
+redis
+rq
+moviepy

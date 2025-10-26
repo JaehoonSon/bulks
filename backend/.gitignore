@@ -1,0 +1,10 @@
+*.env
+*.DS_STORE
+*.venv
+__pycache__
+outputs
+*.png
+pinterest.storage.json
+/scraped-video
+*.mp4
+/scraped-image
